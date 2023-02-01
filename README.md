@@ -1,12 +1,21 @@
-**Fqcxn/Fqcxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Fqcxn
 
-Here are some ideas to get you started:
+## I'm a Full-Stack Developer and Paid/Free Hosting Owner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: https://fqcxnbot.tk/
+- 🌱 I’m currently learning `JavaScript`
+- 👯 I’m looking to collaborate on `Anything`.
+- 🤔 I’m looking for help with `Developing`.
+- 💬 Ask me about `Anything`
+- 📫 How to reach me: `A Ticket In My Discord`
+- 😄 Pronouns: `he/him`
+- ⚡ Fun fact: `I started developing since 6th Grade.`
+
+## Links
+```
+- Discord: https://discord.gg/3Awjwwe59v
+- Website: https://fqcxn.tk/
+- Youtube: https://youtube.com/@Fqcxn/
+```
+
+</details>
