@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on `Anything`
 - 🤔 I’m looking for help with `Developing`
 - 💬 Ask me about `Anything`
-- 📫 How to reach me: `A Ticket In My Discord`
+- 📫 How to reach me: `My Discord Server`
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: `I started developing since 6th Grade`
 
