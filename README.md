@@ -13,7 +13,7 @@
 
 ## Links
 
-`- Website:` https://fqcxn.tk/
+`- Website:` https://fqcxn.tk/ [Web](https://fqcxn.tk/)
 
 `- Discord:` https://discord.gg/3Awjwwe59v
 
