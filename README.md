@@ -13,10 +13,10 @@
 
 ## Links
 
-`- Website:` https://fqcxn.tk/ [Web](https://fqcxn.tk/)
+[Website](https://fqcxn.tk/)
 
-`- Discord:` https://discord.gg/3Awjwwe59v
+[Discord Server](https://discord.gg/3Awjwwe59v)
 
-`- Youtube:` https://youtube.com/@Fqcxn/
+[Youtube](https://youtube.com/@Fqcxn/)
 
 </details>
