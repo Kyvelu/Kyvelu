@@ -13,9 +13,9 @@
 
 ## Links
 
-`- Discord:` https://discord.gg/3Awjwwe59v
-
 `- Website:` https://fqcxn.tk/
+
+`- Discord:` https://discord.gg/3Awjwwe59v
 
 `- Youtube:` https://youtube.com/@Fqcxn/
 
