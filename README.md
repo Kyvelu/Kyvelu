@@ -18,5 +18,3 @@
 - [Discord Server](https://discord.gg/3Awjwwe59v)
 
 - [Youtube](https://youtube.com/@Fqcxn/)
-
-</details>
