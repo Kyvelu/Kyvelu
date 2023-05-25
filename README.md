@@ -10,7 +10,7 @@
 - 📫 How to reach me: `My Discord Server`
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: `I started developing since 6th Grade`
-- 🏡 My Company: `Fall Hosting Inc`
+- 🏡 My Company: `GalaxyNodes | Free Hosting`
 
 ## Links
 
