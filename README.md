@@ -10,13 +10,15 @@
 - 📫 How to reach me: `Email - hello@fqcxn.com`
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: `I started developing since 6th Grade.`
-- 🏡 My Company: `GalaxyNodes (Closed)`
+- 🏡 My Company: `GalaxyNodes`
 
 ## Links
 
 - [Website](https://fqcxn.com/)
 
 - [Discord Server](https://discord.gg/3Awjwwe59v)
+
+- [Company](https://galaxynodes.cloud/)
 
 - [Youtube](https://youtube.com/@Fqcxn/)
 
