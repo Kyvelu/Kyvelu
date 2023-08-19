@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer and Paid/Free Hosting Owner
 
-- 🔭 I’m currently working on: https://aquaticnodes.tech/
+- 🔭 I’m currently working on: https://galaxynodes.cloud/ & https://bot.fqcxn.com/
 - 🌱 I’m currently learning `N/A`
 - 👯 I’m looking to collaborate on `Anything`
 - 🤔 I’m looking for help with `N/A`
