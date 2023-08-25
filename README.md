@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: https://galaxynodes.cloud/ & https://bot.fqcxn.com/
 - 🌱 I’m currently learning `N/A`
-- 👯 I’m looking to collaborate on `Anything`
+- 👯 I’m looking to collaborate on `Providing VPSs For Me`
 - 🤔 I’m looking for help with `N/A`
 - 💬 Ask me about `Anything`
 - 📫 How to reach me: `Email - hello@fqcxn.com`
