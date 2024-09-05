@@ -1,25 +1,23 @@
-# I am Fqcxn
+# I am Koriumm
 
-## I'm a Full-Stack Developer and Paid/Free Hosting Owner
+## I'm Content Creator that streams on Twitch, a Full-Stack Developer, and a Paid/Free Hosting Owner.
 
-- 🔭 I’m currently working on: https://galaxynodes.cloud/ & https://bot.fqcxn.com/
+- 🔭 I’m currently working on: https://twitch.tv/Koriumm/ & https://bot.fqcxn.com/
 - 🌱 I’m currently learning `N/A`
-- 👯 I’m looking to collaborate on `Providing VPSs For Me`
+- 👯 I’m looking to collaborate on `Twitch or other Social Media Platforms`
 - 🤔 I’m looking for help with `N/A`
 - 💬 Ask me about `Anything`
-- 📫 How to reach me: `Email - hello@fqcxn.com`
+- 📫 How to reach me: `Email - KoriummLive@gmail.com`
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: `I started developing since 6th Grade.`
-- 🏡 My Company: `GalaxyNodes`
+- 🏡 My Company: `N/A`
 
 ## Links
 
-- [Website](https://fqcxn.com/)
+- [Website](https://koriumm.is-a.dev/)
 
 - [Discord Server](https://discord.gg/3Awjwwe59v)
 
-- [Company](https://galaxynodes.cloud/)
+- [Youtube](https://youtube.com/@Koriumm/)
 
-- [Youtube](https://youtube.com/@Fqcxn/)
-
-- [Twitter](https://twitter.com/FqcxnLmao)
+- [Twitter](https://twitter.com/KoriummTV)
