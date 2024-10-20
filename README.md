@@ -16,7 +16,7 @@
 
 - [Website](https://koriumm.is-a.dev/)
 
-- [Discord Server](https://discord.gg/3Awjwwe59v)
+- [Twitch](https://twitch.tv/Koriumm/)
 
 - [Youtube](https://youtube.com/@Koriumm/)
 
