@@ -1,6 +1,6 @@
 # I am Koriumm
 
-## I'm Content Creator that streams on Twitch, a Full-Stack Developer, and a Paid/Free Hosting Owner.
+## I'm a Content Creator that streams on Twitch, a Full-Stack Developer, and a Paid/Free Hosting Owner.
 
 - 🔭 I’m currently working on: https://twitch.tv/Koriumm/ & https://bot.fqcxn.com/
 - 🌱 I’m currently learning `N/A`
