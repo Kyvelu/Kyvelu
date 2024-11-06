@@ -31,7 +31,7 @@
 
 ---
 
-## San Francisco Weather
+## ☀ San Francisco Weather
 <p>
     <img src="https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906" />
 </p>
