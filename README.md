@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Koriumm</h1>
+<h1 align="center">Hello 👋 I'm Kory</h1>
 
 <p align="center">
     <a href="https://github.com/koriumm"><img src="https://img.shields.io/github/followers/koriumm?label=Followers&style=social" alt="GitHub followers"></a> <img src="https://komarev.com/ghpvc/?username=Koriumm">
