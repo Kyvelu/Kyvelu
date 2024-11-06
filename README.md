@@ -26,7 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koriumm&layout=compact&theme=default" alt="Top Languages">
 </p>
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=koriumm&theme=nord" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=koriumm&theme=nord&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </p>
 
 ---
