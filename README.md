@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Kory</h1>
+<h1 align="center">Hello 👋 I'm Kyle</h1>
 
 <p align="center">
     <a href="https://github.com/koriumm"><img src="https://img.shields.io/github/followers/koriumm?label=Followers&style=social" alt="GitHub followers"></a> <img src="https://komarev.com/ghpvc/?username=Koriumm">
@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at https://github.com/Koriumm
 - ⚡ Fun fact, I self-taught myself Computer Science starting at 11 years old.
 - 👯 I’m from the SFBA Region in California.
-- 📫 How to reach me: **KoriummLive@gmail.com**
+- 📫 How to reach me: **KoriummTV@gmail.com**
 <p>
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
