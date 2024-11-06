@@ -3,13 +3,12 @@
 <p align="center">
     <a href="https://github.com/koriumm"><img src="https://img.shields.io/github/followers/koriumm?label=Followers&style=social" alt="GitHub followers"></a> <img src="https://komarev.com/ghpvc/?username=Koriumm">
 </p>
-
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906)]("https://weather-badge.vercel.app/")
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Koriumm Web](https://koriumm.is-a.dev)**
-- 🌱 I’m learning **JavaScript**
-- 👯 I’m looking to collaborate on **hosting services running a Pterodactyl.Io panel**
+- 🔭 I’m currently working on **[Koriumm Web](https://koriumm.is-a.dev)**.
+- 👯 I’m from the SFBA Region in California.
 - 📫 How to reach me: **KoriummLive@gmail.com**
 <p>
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
