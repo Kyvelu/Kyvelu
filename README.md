@@ -8,6 +8,8 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **[Koriumm Web](https://koriumm.is-a.dev)**.
+- 👨‍💻 All of my projects are available at https://github.com/Koriumm
+- ⚡ Fun fact, I self-taught myself Computer Science starting at 11 years old.
 - 👯 I’m from the SFBA Region in California.
 - 📫 How to reach me: **KoriummLive@gmail.com**
 <p>
