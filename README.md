@@ -3,9 +3,10 @@
 <p align="center">
     <a href="https://github.com/koriumm"><img src="https://img.shields.io/github/followers/koriumm?label=Followers&style=social" alt="GitHub followers"></a> <img src="https://komarev.com/ghpvc/?username=Koriumm">
 </p>
-<a href="https://weather-badge.vercel.app" align="center">
-   <img src=https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906 />
-</a>
+<p align="center">
+    <img src="https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906" />
+</p>
+
 
 ---
 
