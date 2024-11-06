@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I'm Koriumm</h1>
 
 <p align="center">
-    <a href="https://github.com/koriumm"><img src="https://img.shields.io/github/followers/koriumm?label=Followers&style=social" alt="GitHub followers"></a> <img src="https://komarev.com/ghpvc/?username=koriumm&label=Profile%20views&color=0e75b6&style=flat" alt="koriumm" />
+    <a href="https://github.com/koriumm"><img src="https://img.shields.io/github/followers/koriumm?label=Followers&style=social" alt="GitHub followers"></a> <img src="https://komarev.com/ghpvc/?username=Koriumm">
 </p>
 
 ---
