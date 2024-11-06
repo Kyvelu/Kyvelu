@@ -31,6 +31,11 @@
 
 ---
 
+## San Francisco Weather
+<p>
+    <img src="https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906" />
+</p>
+
 ### 🔗 Follow me on Social Media
 <p>
     <a href="https://twitch.tv/Koriumm" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
