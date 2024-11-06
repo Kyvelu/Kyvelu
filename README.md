@@ -37,7 +37,7 @@
     <a href="https://twitter.com/KoriummTV" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="https://instagram.com/KoriummTV" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
-<p align="center">
+<p>
     <img src="https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906" />
 </p>
 
