@@ -1,4 +1,7 @@
 <h1 align="center">Hello 👋 I'm Kyle</h1>
+<p align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1183F6&center=true&vCenter=true&random=true&width=435&lines=An+Entrepreneur+%26+Content+Creator;Backend+Developer;And+Hosting+Service+Director)](https://git.io/typing-svg)
+    </p>
 
 <p align="center">
     <a href="https://github.com/koriumm"><img src="https://img.shields.io/github/followers/koriumm?label=Followers&style=social" alt="GitHub followers"></a> <img src="https://komarev.com/ghpvc/?username=Koriumm">
