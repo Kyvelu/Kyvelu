@@ -25,11 +25,9 @@
     <img src="https://img.shields.io/badge/-Termius-000000?style=flat&logo=windows-terminal&logoColor=white" alt="Termius"/>
 </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koriumm&layout=compact&theme=dark" alt="Top Languages">
-</p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=koriumm&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-    <img src="https://streak-stats.demolab.com?user=Koriumm&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koriumm&layout=compact&theme=dark" alt="Top Languages">  
+    <img src="https://github-readme-stats.vercel.app/api?username=koriumm&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">  
+    <img src="https://streak-stats.demolab.com?user=Koriumm&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />  
 </p>
 <p>
     <img src="https://github-profile-trophy.vercel.app/?username=koriumm&theme=nord&no-frame=true&margin-w=5" alt="GitHub Trophies">
