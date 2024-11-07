@@ -39,20 +39,18 @@
 ---
 
 ## ♥ Locality
-<div style="display: flex; justify-content: space-between; align-items: center;">
   <div align="left">
-    <h3>Now Playing from Spotify</h3>
+    <h3 align="left">Now Playing from Spotify</h3>
     <p>
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qvo3y6h1az1zsgr7w1t7fo9h8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=1183f6&bar_color_cover=false">
     </p>
   </div>
   <div align="center">
-    <h3>San Francisco Weather</h3>
+    <h3 align="center">San Francisco Weather</h3>
     <p>
       <img src="https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906" />
     </p>
   </div>
-</div>
 
 ---
 
