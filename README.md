@@ -40,7 +40,7 @@
 
 ## ♥ Locality
 <p>
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qvo3y6h1az1zsgr7w1t7fo9h8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qvo3y6h1az1zsgr7w1t7fo9h8&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
     <img src="https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906">
 </p>
 
