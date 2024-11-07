@@ -32,6 +32,9 @@
 <p>
     <img src="https://github-profile-trophy.vercel.app/?username=koriumm&theme=nord&no-frame=true&margin-w=5" alt="GitHub Trophies">
 </p>
+<p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koriumm&bg_color=000000&color=ffffff&line=1183f6&point=403d3d&area=true&hide_border=true>
+</p>
 
 ---
 
