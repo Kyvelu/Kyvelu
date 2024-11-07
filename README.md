@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 I'm Kyle</h1>
 <p align="center">
-    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1183F6&center=true&random=true&width=435&lines=Entrepreneur+%26+Content+Creator;Backend+Developer;Hosting+Service+Director"></img>
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1183F6&center=true&vCenter=true&random=true&width=435&lines=Entrepreneur+%26+Content+Creator;Backend+Developer;Hosting+Service+Director"></img>
     </p>
 
 <p align="center">
