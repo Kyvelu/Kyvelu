@@ -29,8 +29,6 @@
 </p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=koriumm&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-</p>
-<p>
     <img src="https://streak-stats.demolab.com?user=Koriumm&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 <p>
