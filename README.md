@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 I'm Kyle</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1183F6&center=true&random=true&width=435&height=30&lines=Entrepreneur+%26+Content+Creator;Backend+Developer;Hosting+Service+Director"></img>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1183F6&center=true&random=true&width=435&height=30&lines=Entrepreneur+%26+Content+Creator;Backend+Developer;Hosting+Service+Director">
     </p>
 
 <p align="center">
@@ -27,6 +27,7 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=koriumm&show_icons=true&theme=default&count_private=true" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koriumm&layout=compact&theme=default" alt="Top Languages">
+    <img src="https://streak-stats.demolab.com?user=Koriumm&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 <p>
     <img src="https://github-profile-trophy.vercel.app/?username=koriumm&theme=nord&no-frame=true&margin-w=5" alt="GitHub Trophies">
