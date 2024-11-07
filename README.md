@@ -41,7 +41,7 @@
 ## ♥ Locality
 San Fransisco Weather
 <p>
-    <img src="https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906" />
+    <img src="https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906" align="center"/>
 </p>  
 Now Playing from Spotify
 <p>
