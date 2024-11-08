@@ -25,15 +25,9 @@
     <img src="https://img.shields.io/badge/-Termius-000000?style=flat&logo=windows-terminal&logoColor=white">
 </p>
 <p>
-    <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=koriumm&show_icons=true&theme=dark&count_private=true">
-    </a>
-    <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koriumm&theme=dark&card_width=320">
-    </a>
-    <a>
     <img align="center" src="https://streak-stats.demolab.com?user=Koriumm&theme=dark&date_format=j%20M%5B%20Y%5D">
-    </a>
 </p>
 <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koriumm&bg_color=000000&color=ffffff&line=1183f6&point=403d3d&area=true&hide_border=true">
