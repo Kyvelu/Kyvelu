@@ -50,7 +50,7 @@
 ### 🔗 Follow me on Social Media
 <p>
     <a href="https://twitch.tv/Koriumm" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"></a>
-    <a href="https://youtube.com/Koriumm" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="https://youtube.com/@Koriumm" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
     <a href="https://tiktok.com/@KoriummTV" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white"></a>
     <a href="https://twitter.com/KoriummTV" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://instagram.com/KoriummTV" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
