@@ -4,7 +4,7 @@
     </p>
 
 <p align="center">
-    <a href="https://github.com/koriumm"><img src="https://img.shields.io/github/followers/koriumm?label=Followers&style=social"></a> <a href="https://github.com/koriumm"><img src="https://komarev.com/ghpvc/?username=Koriumm"></a>
+    <img src="https://img.shields.io/github/followers/koriumm?label=Followers&style=social"> <img src="https://komarev.com/ghpvc/?username=Koriumm">
 </p>
 
 ---
