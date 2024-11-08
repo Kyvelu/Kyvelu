@@ -29,7 +29,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=koriumm&show_icons=true&theme=dark&count_private=true">
     </a>
     <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koriumm&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koriumm&theme=dark&card_width=320">
     </a>
     <a>
     <img align="center" src="https://streak-stats.demolab.com?user=Koriumm&theme=dark&date_format=j%20M%5B%20Y%5D">
