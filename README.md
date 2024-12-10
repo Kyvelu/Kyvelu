@@ -59,7 +59,7 @@
 ---
 
 ### 📌 Projects
-- **[Koriumm](https://github.com/Koriumm/Website)** - My Portfolio - Static Website - Will always be up to date with latest news and blog posts.
+- **[Website (Static)](https://github.com/Koriumm/Website)** - My Portfolio - Static Website - Will always be up to date with latest news and blog posts.
 - **[FqcxnBot](https://github.com/koriumm/FqcxnBot)** - An AIO (All In One) Discord Bot - Offline (Bot shut down due to finance problems for servers)
 - **[FallBumps](https://github.com/Koriumm/FallBumps)** - A bump bot that advertises your server.
 - **[Event400](https://github.com/Koriumm/Event400)** - Event400 is a Discord bot designed to celebrate reaching 400 members on Koriumm's Discord server.
