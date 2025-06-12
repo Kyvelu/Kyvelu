@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Kyvelu Web](https://Kyvelu.is-a.dev)**.
+- 🔭 I’m currently working on **[CS2 Weekly Drop Reset Countdown](https://kyvelu.github.io/CS2WeeklyDropCountdown/)**.
 - 👨‍💻 All of my projects are available at https://github.com/Kyvelu
 - ⚡ Fun fact, I self-taught myself Computer Science starting at 11 years old.
 - 👯 I’m from the SFBA Region in California.
