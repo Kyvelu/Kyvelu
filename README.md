@@ -42,7 +42,6 @@
 <p>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qvo3y6h1az1zsgr7w1t7fo9h8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" height="350">
     <img src="https://weather-badge.vercel.app/api/badge?lat=37.7790262&lon=-122.419906&size=200" height="350">
-    <img src="https://raw.githubusercontent.com/kyvelu/kyvelu/refs/heads/main/images/github%20thing-2.gif" height="350">
 </p>
 
 ---
